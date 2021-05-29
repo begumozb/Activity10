@@ -1,0 +1,25 @@
+* {
+    color: rgb(69, 47, 79);
+   }
+   .input {
+    background: #ccf;
+   }
+   .input:hover {
+    background: rgb(236, 180, 250);
+   }
+   .button {
+    border: 1px solid rgb(69, 47, 79)6;
+    background: #ccf;
+   }
+   .button:hover {
+    background: rgb(236, 180, 250);
+   }
+   label {
+    display: block;
+    width: 200px;
+    float: left;
+    margin: 2px 4px 6px 4px;
+   }
+   br {
+    clear: left;
+   }
