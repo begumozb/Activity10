@@ -8,7 +8,7 @@
     background: rgb(236, 180, 250);
    }
    .button {
-    border:1px rgb(69, 47, 79);
+    border:1px rgb(69, 47, 79) 1px;
     background: #ccf;
    }
    .button:hover {
